@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_artboard_4">
+
+    <target android:name="a1" android:animation="@animator/anim_default_fill" />
+    <target android:name="a2" android:animation="@animator/anim_default_fill" />
+    <target android:name="a3" android:animation="@animator/anim_default_fill" />
+    <target android:name="a4" android:animation="@animator/anim_default_fill" />
+    <target android:name="a5" android:animation="@animator/anim_default_fill" />
+    <target android:name="a6" android:animation="@animator/anim_default_fill" />
+    <target android:name="a7" android:animation="@animator/anim_default_fill" />
+    <target android:name="a8" android:animation="@animator/anim_default_fill" />
+    <target android:name="a9" android:animation="@animator/anim_default_fill" />
+    <target android:name="a10" android:animation="@animator/anim_default_fill" />
+    <target android:name="a11" android:animation="@animator/anim_default_fill" />
+    <target android:name="a12" android:animation="@animator/anim_default_fill" />
+    <target android:name="a13" android:animation="@animator/anim_default_fill" />
+    <target android:name="a14" android:animation="@animator/anim_default_fill" />
+    <target android:name="a15" android:animation="@animator/anim_default_fill" />
+    <target android:name="a16" android:animation="@animator/anim_default_fill" />
+    <target android:name="a17" android:animation="@animator/anim_default_fill" />
+    <target android:name="a18" android:animation="@animator/anim_default_fill" />
+    <target android:name="a19" android:animation="@animator/anim_default_fill" />
+    <target android:name="a20" android:animation="@animator/anim_default_fill" />
+    <target android:name="a21" android:animation="@animator/anim_default_fill" />
+    <target android:name="a22" android:animation="@animator/anim_default_fill" />
+    <target android:name="a23" android:animation="@animator/anim_default_fill" />
+    <target android:name="a24" android:animation="@animator/anim_default_fill" />
+    <target android:name="a25" android:animation="@animator/anim_default_fill" />
+    <target android:name="a26" android:animation="@animator/anim_default_fill" />
+    <target android:name="a27" android:animation="@animator/anim_default_fill" />
+    <target android:name="a28" android:animation="@animator/anim_default_fill" />
+    <target android:name="a29" android:animation="@animator/anim_default_fill" />
+    <target android:name="a30" android:animation="@animator/anim_default_fill" />
+    <target android:name="a31" android:animation="@animator/anim_default_fill" />
+    <target android:name="a32" android:animation="@animator/anim_default_fill" />
+    <target android:name="a33" android:animation="@animator/anim_default_fill" />
+    <target android:name="a34" android:animation="@animator/anim_default_fill" />
+    <target android:name="a35" android:animation="@animator/anim_default_fill" />
+    <target android:name="a36" android:animation="@animator/anim_default_fill" />
+    <target android:name="a37" android:animation="@animator/anim_default_fill" />
+    <target android:name="a38" android:animation="@animator/anim_default_fill" />
+    <target android:name="a39" android:animation="@animator/anim_default_fill" />
+    <target android:name="a40" android:animation="@animator/anim_default_fill" />
+    <target android:name="a41" android:animation="@animator/anim_default_fill" />
+    <target android:name="a42" android:animation="@animator/anim_default_fill" />
+    <target android:name="a43" android:animation="@animator/anim_default_fill" />
+    <target android:name="a44" android:animation="@animator/anim_default_fill" />
+    <target android:name="a45" android:animation="@animator/anim_default_fill" />
+    <target android:name="a46" android:animation="@animator/anim_default_fill" />
+    <target android:name="a47" android:animation="@animator/anim_default_fill" />
+    <target android:name="a48" android:animation="@animator/anim_default_fill" />
+    <target android:name="a49" android:animation="@animator/anim_default_fill" />
+    <target android:name="a50" android:animation="@animator/anim_default_fill" />
+    <target android:name="a51" android:animation="@animator/anim_default_fill" />
+    <target android:name="a52" android:animation="@animator/anim_default_fill" />
+    <target android:name="a53" android:animation="@animator/anim_default_fill" />
+    <target android:name="a54" android:animation="@animator/anim_default_fill" />
+    <target android:name="a55" android:animation="@animator/anim_default_fill" />
+
+</animated-vector>
